@@ -5,9 +5,7 @@ h1, h2, h3 , h4, h5, h6 {
 p {
   font-family: 'Noto', sans-serif;
 }
-
 /* Navigation bar */
-
 /* General */
 .customNav {
   position: fixed;
@@ -27,7 +25,6 @@ p {
 .nav-item {
   margin: 0px 0px;
 }
-
 /* Navigation dropdown menu */
 .dropdown-menu {
   background: url("../images/transparency.png");
@@ -39,7 +36,6 @@ p {
     text-decoration: none;
     background: black;
 }
-
 /* Navigation links */
 .customNav a {
   color: white !important;
@@ -47,10 +43,8 @@ p {
 .navCTA {
   font-size: 15px;
 }
-
 /* Jumbotron  */
 .jumbotron {
-
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 25px);
@@ -58,7 +52,6 @@ p {
   align-items: center;
   justify-content: center;
 }
-
 /* Jumbotron copy */
 .jumboCopy {
   width: 70%;
@@ -67,7 +60,6 @@ p {
   color: white;
   text-align: center;
 }
-
 /* About Me */
 .mx-auto {
   padding: 100px;
@@ -75,8 +67,6 @@ p {
   background-color: black;
   color: white;
 }
-
-
 /* Cards */
 .content {
   padding: 50px;
@@ -86,12 +76,10 @@ p {
 }
 .showsNear  {
   padding: 0px 30px 30px 30px;
-  
 }
 .cardContainer {
   text-align: center;
 }
-
 /* Content */
 .sideAccent {
   background: #007bff;
@@ -108,10 +96,8 @@ p {
   margin-top: 15px;
   margin-bottom: 15px;
 }
-
 /* Footer */
 .emailContain {
- 
   background-size: cover;
   display: flex;
   align-items: center;
@@ -120,7 +106,6 @@ p {
   justify-content: center;
   height: 500px;
 }
-
 /* Footer form */
 form {
   width: 500px;
@@ -132,7 +117,6 @@ form {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1);
   background-color: white;
 }
-
 .foot {
   height: 50px;
   background-color: black;
@@ -143,20 +127,16 @@ form {
   border: 2px solid #006100;
   padding-left: 25px;
 }
-
 .centered-element {
   margin: 0;
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
 }
-
 /* STYLES FOR TEMPLATE PLEASE DO NOT TOUCH*/
 .dropdown-menu {
   left: -97px;
 }
-
-
 .cardContainer {
   margin-top: 20px;
 }
